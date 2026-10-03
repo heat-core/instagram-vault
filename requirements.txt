@@ -1,0 +1,12 @@
+instagrapi==3.0.2
+gallery-dl==1.32.14
+yt-dlp==2026.08.19
+python-dotenv==1.0.0
+openai==2.54.0
+numpy==1.26.4
+opencv-python==4.9.0.80
+Pillow==12.3.0
+fastapi==0.141.1
+uvicorn==0.53.0
+keyring==25.7.0
+cryptography==49.0.0
